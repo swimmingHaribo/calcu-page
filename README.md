@@ -1,4 +1,4 @@
-# calcu-page
+# calcu-page - React
 [Web dev simplified](https://courses.webdevsimplified.com/learn-react-today)
 - Input && Calculations
 
